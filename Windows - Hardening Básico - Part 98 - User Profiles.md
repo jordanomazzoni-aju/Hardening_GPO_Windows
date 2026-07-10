@@ -1,3 +1,5 @@
+<img width="1279" height="720" alt="image" src="https://github.com/user-attachments/assets/2c0536b8-e60d-4554-874f-f51d4a082cc8" />
+
 # Windows - Hardening Básico - Part 98 - User Profiles
 
 Garanta que 'Turn off the advertising ID' esteja atribuido como 'Enabled'
