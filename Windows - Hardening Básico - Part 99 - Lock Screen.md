@@ -1,8 +1,8 @@
 
 <img width="1279" height="720" alt="image" src="https://github.com/user-attachments/assets/a4ae2262-01a6-4fe2-a38e-267c45f5aab8" />
 
+<h1><strong>Windows - Hardening Básico - Part 99 - Lock Screen</strong></h1>
 
-Windows - Hardening Básico - Part 99 - Lock Screen
 
 
 Garanta que 'Prevent enabling lock screen camera' esteja atribuido como 'Enabled'
