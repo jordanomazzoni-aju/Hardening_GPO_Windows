@@ -11,4 +11,4 @@ Voltado para administradores de sistemas e profissionais de segurança, o projet
 
 [Windows - Hardening Básico - Part 99 - Lock Screen](https://github.com/jordanomazzoni-aju/Hardening_GPO_Windows/blob/main/Windows%20-%20Hardening%20B%C3%A1sico%20-%20Part%2099%20-%20Lock%20Screen.md)
 
-[Windows - Hardening Básico - Part 98 - User Profiles]()
+[Windows - Hardening Básico - Part 98 - User Profiles](https://github.com/jordanomazzoni-aju/Hardening_GPO_Windows/blob/main/Windows%20-%20Hardening%20B%C3%A1sico%20-%20Part%2098%20-%20User%20Profiles.md)
