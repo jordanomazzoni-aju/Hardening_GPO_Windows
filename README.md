@@ -17,4 +17,4 @@ Voltado para administradores de sistemas e profissionais de segurança, o projet
 
 [Windows - Hardening Básico - Part 96 - Fonts - Messaging + Providers](https://github.com/jordanomazzoni-aju/Hardening_GPO_Windows/blob/main/Windows%20-%20Hardening%20B%C3%A1sico%20-%20Part%2096%20-%20Fonts%20-%20Messaging%20%2B%20Providers.md)
 
-[Windows - Hardening Básico - Part 95 - Manage updates offered from Windows Update](https://github.com/jordanomazzoni-aju/Hardening_GPO_Windows/blob/main/Windows%20-%20Hardening%20B%C3%A1sico%20-%20Part%2096%20-%20Fonts%20-%20Messaging%20%2B%20Providers.md)
+[Windows - Hardening Básico - Part 95 - Manage updates offered from Windows Update](https://github.com/jordanomazzoni-aju/Hardening_GPO_Windows/blob/main/Windows%20-%20Hardening%20B%C3%A1sico%20-%20Part%2095%20-%20Manage%20updates%20offered%20from%20Windows%20Update.md)
