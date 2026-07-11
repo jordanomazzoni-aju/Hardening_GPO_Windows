@@ -21,7 +21,7 @@ Voltado para administradores de sistemas e profissionais de segurança, o projet
 
 [Windows - Hardening Básico - Part 94 - Automatic Updates - End user experience](https://github.com/jordanomazzoni/Hardening_GPO_Windows/blob/main/Windows%20-%20Hardening%20B%C3%A1sico%20-%20Part%2094%20-%20Automatic%20Updates%20-%20End%20user%20experience.md)
 
-[Windows - Hardening Básico - Part 93 - Windows Ink Workspace + Windows Installer]()
+[Windows - Hardening Básico - Part 93 - Windows Ink Workspace + Windows Installer](https://github.com/jordanomazzoni/Hardening_GPO_Windows/blob/main/Windows%20-%20Hardening%20B%C3%A1sico%20-%20Part%2093%20-%20Windows%20Ink%20Workspace%20%2B%20Windows%20Installer.md)
 
 [Windows - Hardening Básico - Part 92 - Logon - part03]()
 
