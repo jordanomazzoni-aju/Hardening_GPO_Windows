@@ -127,26 +127,26 @@ Voltado para administradores de sistemas e profissionais de segurança, o projet
 
 [Windows - Hardening Básico - Part 40 - Clipboard synchronization across devices - Upload of User Activities]()
 
-[Windows - Hardening Básico - Part 39 - Biometrics - Facial anti-spoofing]()]
+[Windows - Hardening Básico - Part 39 - Biometrics - Facial anti-spoofing]()
 
-[Windows - Hardening Básico - Part 38 - SAM change password RPC methods policy]()]
+[Windows - Hardening Básico - Part 38 - SAM change password RPC methods policy]()
 
-[Windows - Hardening Básico - Part 39 - Biometrics - Facial anti-spoofing]()]
+[Windows - Hardening Básico - Part 39 - Biometrics - Facial anti-spoofing]()
 
-[Windows - Hardening Básico - Part 39 - Biometrics - Facial anti-spoofing]()]
+[Windows - Hardening Básico - Part 39 - Biometrics - Facial anti-spoofing]()
 
-[Windows - Hardening Básico - Part 37 - PowerShell Script Block Logging - PowerShell Transcription]()]
+[Windows - Hardening Básico - Part 37 - PowerShell Script Block Logging - PowerShell Transcription]()
 
-[Windows - Hardening Básico - Part 36 - Prohibit connection to non-domain networks when connected to domain authenticated network]()]
+[Windows - Hardening Básico - Part 36 - Prohibit connection to non-domain networks when connected to domain authenticated network]()
 
-[Windows - Hardening Básico - Part 35 - LAPS - Windows Local Administrator Password Solution]()]
+[Windows - Hardening Básico - Part 35 - LAPS - Windows Local Administrator Password Solution]()
 
-[Windows - Hardening Básico - Part 34 - RPC over TCP port - PC packet level privacy]()]
+[Windows - Hardening Básico - Part 34 - RPC over TCP port - PC packet level privacy]()
 
-[Windows - Hardening Básico - Part 33 - Print Spooler to accept client connections]()]
+[Windows - Hardening Básico - Part 33 - Print Spooler to accept client connections]()
 
-[Windows - Hardening Básico - Part 32 - anonymous enumeration - storage of passwords and credentials]()]
+[Windows - Hardening Básico - Part 32 - anonymous enumeration - storage of passwords and credentials]()
 
-[Windows - Hardening Básico - Part 31 - (LLTDIO) driver + (RSPNDR) driver]()]
+[Windows - Hardening Básico - Part 31 - (LLTDIO) driver + (RSPNDR) driver]()
 
-[Windows - Hardening Básico - Part 30 - Advanced Audit Policy - System]()]
+[Windows - Hardening Básico - Part 30 - Advanced Audit Policy - System]()
