@@ -25,7 +25,7 @@ Voltado para administradores de sistemas e profissionais de segurança, o projet
 
 [Windows - Hardening Básico - Part 92 - Logon - part03](https://github.com/jordanomazzoni/Hardening_GPO_Windows/blob/main/Windows%20-%20Hardening%20B%C3%A1sico%20-%20Part%2092%20-%20Logon%20-%20part03.md)
 
-[Windows - Hardening Básico - Part 91 - Logon - part02]()
+[Windows - Hardening Básico - Part 91 - Logon - part02](https://github.com/jordanomazzoni/Hardening_GPO_Windows/blob/main/Windows%20-%20Hardening%20B%C3%A1sico%20-%20Part%2091%20-%20Logon%20-%20part02.md)
 
 [Windows - Hardening Básico - Part 90 - Logon - part01]()
 
