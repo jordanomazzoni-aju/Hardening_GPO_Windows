@@ -210,3 +210,6 @@ Voltado para administradores de sistemas e profissionais de segurança, o projet
 [Windows - Hardening Básico - Part 01 - Remote Assistance]()
 
 [Atenção, nem todo Event ID 4625 é igual]()
+
+![Profile views](https://counter.kuber.studio/jordanomazzoni/dark/count.svg)
+
